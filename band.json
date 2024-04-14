@@ -1,0 +1,46 @@
+[
+    {
+       "firstName": "Jimi",
+       "lastName": "Hendrix",
+       "gender": "Male",
+       "birthday": "11/27/1942",
+       "instrument": "Guitar",
+       "birthPlace": "Washington"
+    },
+    {
+       "firstName": "Stevie",
+       "lastName": "Nicks",
+       "gender": "Female",
+       "birthday": "5/26/1948",
+       "instrument": "Vocals",
+       "birthPlace": "Arizona"
+   
+    },
+    {
+       "firstName": "Elton",
+       "lastName": "John",
+       "gender": "Male",
+       "birthday": "3/25/1947",
+       "instrument": "Piano",
+       "birthPlace": "England"
+   
+    },
+    {
+       "firstName": "Billy",
+       "lastName": "Joel",
+       "gender": "Male",
+       "birthday": "5/9/1949",
+       "instrument": "Piano",
+       "birthPlace": "New York"
+   
+    },
+    {
+       "firstName": "Dave",
+       "lastName": "Grohl",
+       "gender": "Male",
+       "birthday": "1/14/1969",
+       "instrument": "Drums",
+       "birthPlace": "Ohio"
+   
+    }
+   ]
